@@ -2,7 +2,7 @@
 
 ## About the Author
 
-I am a student in the ![University of Auckland](https://www.auckland.ac.nz/en.html). I am actively learning **R** and would like to share my learning experience here!
+I am a student in the [University of Auckland](https://www.auckland.ac.nz/en.html). I am actively learning **R** and would like to share my learning experience here!
 
 ## About the Project
 
