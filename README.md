@@ -14,6 +14,6 @@ This is a project created for the course *STATS 220*. The current content includ
 
 In the future, I plan to share
 
-1. USe R for computing
+1. Use R for computing
 2. Use R for statistical analysis
 3. Use R for machine learning
