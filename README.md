@@ -8,7 +8,7 @@ I am a student in the [University of Auckland](https://www.auckland.ac.nz/en.htm
 
 This is a project created for the course *STATS 220*. The current content includes creating 
 
-* meme and 
+* meme
 * animated GIF
 * sharing content in Github
 
